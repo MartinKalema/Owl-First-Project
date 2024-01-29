@@ -24,5 +24,5 @@ The Owl Framework Todo List Project is a web-based application that allows users
  **Clone the repository:**
 
    ```bash
-   git clone https://github.com/MartinKalema/Owl-Project-One.git
+   git clone https://github.com/MartinKalema/Owl.js-First-Project
 
