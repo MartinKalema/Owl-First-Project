@@ -1,6 +1,6 @@
-# Owl Framework Todo List Project
+# Owl Todo List
 
-This is a simple Todo List application built using the Owl framework.
+Owl is a component based web development framework designed for Odoo and is similar to React.js and Vue.js
 
 ## Description
 
