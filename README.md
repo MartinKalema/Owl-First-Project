@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="300" src="./odoo_logo.svg">
 
-## Owl Todo List
+## Owl.js Todo List
 This is my first Owl.js project where i'm implementing a simple todo list.
 Owl is a component based web development framework designed for Odoo and is similar to React.js and Vue.js
 
